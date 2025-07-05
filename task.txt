@@ -1,0 +1,13 @@
+Restfull API - JSONE
+
+GET / users - List all users return as a json - {done}
+GET / api/users/1 - Get user with ID - {done}
+
+
+Dynamic Path Params
+GET/api/users/:id - Get user with ID
+
+Post/ api/users - Create new user
+Patch / api/users/id - Update users with ID
+
+Delete/ api/ users/id - Delete user with Id
